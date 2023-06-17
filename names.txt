@@ -1,0 +1,16 @@
+alaa 0
+rami 1
+riya 1
+zaid 1
+omar 0
+zain 1
+saif 0
+hind 0
+leen 1
+sara 0
+anas 0
+fadi 0
+wajd 1
+lana 1
+nour 0
+
